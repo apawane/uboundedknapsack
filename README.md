@@ -1,5 +1,8 @@
 # uboundedknapsack
-multiple solutions for unbounded knapsack problem
+Multiple solutions for unbounded knapsack problem.
+Solution 1: Solution provided with 2^n time complexity.
+Solution 2: Solution proided with divide and conquer.
+Solution 3: Solution provided with dynamic programming.
 
 Problem Statement :
 	Given an array of integers and a target sum, determine the sum nearest to but not exceeding the
